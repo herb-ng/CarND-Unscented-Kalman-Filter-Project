@@ -1,0 +1,10 @@
+# silly macOS
+.DS_Store
+
+# build files
+build/
+/.metadata/
+.cproject
+.project
+.settings/
+RemoteSystemsTempFiles/
